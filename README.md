@@ -1,10 +1,9 @@
 ![visitors](https://komarev.com/ghpvc/?username=cchany)
 
-<div align="center">
-  <a href="https://portfolio-1at.pages.dev/" style="font-size:60px; font-weight:700; text-decoration:none;">
-    송찬영 | ChanYoung Song
-  </a>
-</div>
+<h1 align="center">
+  <a href="https://portfolio-1at.pages.dev/">송찬영 | ChanYoung Song</a>
+</h1>
+
 
 
 <p align="center">
