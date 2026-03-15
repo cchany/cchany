@@ -1,6 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=cchany)
 
-<a href="https://portfolio-1at.pages.dev/" rel="nofollow" style=align:"center">송찬영 | ChanYoung Song</a>
+<a href="https://portfolio-1at.pages.dev/" rel="nofollow", align:"center">송찬영 | ChanYoung Song</a>
 
 <p align="center">
 데이터로부터 아이디어를, 기술로부터 경험을 만듭니다.<br>
